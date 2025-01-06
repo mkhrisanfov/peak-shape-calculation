@@ -23,3 +23,5 @@ Figure 5. K vs $f_{asym,xx}$ relation (a) for asymmetry factor calculated at dif
 ![Figure6b](Figures/Fig6b.jpg)
 Figure 6. Extracted ion chromatograms corresponding to the molecular ions of 5-methyl-2-hexanone  (a) and cyclohexanone (b).  “Exp” represents discrete experimental data points. “Ini” corresponds to the initial values for iterative fitting found using the proposed approach. “Opt” shows the final results obtained by iterative fitting of the experimental data points with the EMG function.
 
+![FigureS1](Figures/FigS1.jpg)
+Figure S1. Illustration of numerical instability of Scipy implementation of EMG in comparison with Kalambet’s approach.
